@@ -1,4 +1,4 @@
-Hi there 👋 My name is Pedro Pinto, real name, but you can find me in the net also as **DENCZH**.
+My name is Pedro Pinto, real name, but you can find me in the net also as **DENCZH**.
 
 In summary, I am passionate about robust implementations, where maintainability, scalability, and testability are at the core, properly documented, with clear architectures that adhere to standards correctly. I have led digital transformations that have resulted in new opportunities for the companies, reduced errors, and improved performance.
 
