@@ -16,7 +16,8 @@ html, body {
 }
 
 .site-name {
-    font-size: 100px;
+    font-size: 80px;
+    font-weight: 600;
     font-family: Arial, sans-serif;
     color: #f2faff;
     margin-top: 20px;
