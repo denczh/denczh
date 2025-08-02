@@ -60,12 +60,10 @@ nav {
 .slogan {
     text-align: center;
     margin: 40px 0;
-    font-size: 24px;
+    font-size: 20px;
     font-style: italic;
     font-weight: bold;
     padding: 20px;
-    border-left: 4px solid #ffffff;
-    border-right: 4px solid #ffffff;
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
