@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   sodipodi:docname="logo cybernite.svg"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.3924163"
+     inkscape:cx="-14.443982"
+     inkscape:cy="61.902779"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="1920"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1"
+     transform="translate(-460.74553,-455.90735)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Crystal"
+     transform="translate(-460.74553,-455.90735)">
+    <g
+       id="g4"
+       transform="matrix(0.15782375,0,0,0.15782375,432.38525,426.06316)">
+      <path
+         style="opacity:1;fill:#e6e6e6;stroke:#30531b;stroke-width:0"
+         d="m 401.41005,787.04962 -131.48349,-177.57837 17.43059,-125.55754 68.6541,97.21004 V 399.12554 L 496.10656,189.09825 v 145.50471 479.7397 8.37379 c -31.5655,-11.88894 -63.13101,-23.77789 -94.69651,-35.66683 z"
+         id="path3"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         style="opacity:1;fill:#1a1a1a;stroke:#30531b;stroke-width:0"
+         d="m 419.90719,793.68206 -7.44308,-2.65297 -129.71864,-184.42385 49.60812,-35.48649 -44.99644,-87.20504 68.6541,97.21004 48.14906,60.5511 V 417.4016 l 91.9831,-82.83182 v 479.82024 l -76.60469,-98.4549 v 77.22168 z"
+         id="path1" />
+      <path
+         style="opacity:1;fill:#ffffff;stroke:#30531b;stroke-width:0"
+         d="M 496.10656,822.71645 576.12125,792.47938 723.08342,609.96346 705.3525,479.97945 635.38781,522.19416 V 400.40844 L 496.10656,189.09825 v 145.50471 l 93.82368,84.34621 v 274.36607 l -93.82368,121.02742 z"
+         id="path4" />
+      <path
+         style="opacity:1;fill:#cccccc;stroke:#30531b;stroke-width:0"
+         d="m 496.14341,814.39002 79.97784,-102.15908 v 80.24844 l 15.21594,-5.21094 131.74623,-177.30498 -47.95436,-29.98611 -85.19882,113.33789 V 418.94917 l -93.78683,-84.37939 z"
+         id="path2" />
+    </g>
+  </g>
+</svg>
