@@ -57,6 +57,25 @@ nav {
     height: 16px;
 }
 
+.slogan {
+    text-align: center;
+    margin: 40px 0;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: bold;
+    padding: 20px;
+    border-left: 4px solid #ffffff;
+    border-right: 4px solid #ffffff;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slogan p {
+    margin: 0;
+}
+
+/* Ajustamos el margen superior de .intro para mantener consistencia */
 .intro {
     margin: 20px 0;
 }
