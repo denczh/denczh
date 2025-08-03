@@ -1,17 +1,3 @@
-@font-face {
-  font-family: 'brand';
-  src: url('/denczh/fonts/geo.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'normal';
-  src: url('/denczh/fonts/jura.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
 * {
     margin: 0;
     padding: 0;
@@ -31,7 +17,7 @@ a:hover {
 body {
     background-color: #0d1117;
     color: #ffffff;
-    font-family: 'normal', Courier;
+    font-family: 'normal', sans-serif;
     line-height: 1.6;
     margin: 0 auto;
     max-width: 1000px;
@@ -129,6 +115,20 @@ nav {
 
 .project p {
     text-align: left;
+}
+
+@font-face {
+  font-family: 'brand';
+  src: url('/denczh/fonts/geo.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'normal';
+  src: url('/denczh/fonts/jura.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 /* Responsive design */
