@@ -1,13 +1,13 @@
 @font-face {
   font-family: 'brand';
-  src: url('/fonts/Geo.woff') format('woff');
+  src: url('fonts/Geo.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'normal';
-  src: url('/fonts/Jura.woff') format('woff');
+  src: url('fonts/Jura.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -31,7 +31,7 @@ a:hover {
 body {
     background-color: #0d1117;
     color: #ffffff;
-    font-family: "normal", Courier;
+    font-family: 'normal', Courier;
     line-height: 1.6;
     margin: 0 auto;
     max-width: 1000px;
