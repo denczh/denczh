@@ -1,3 +1,17 @@
+@font-face {
+  font-family: 'brand';
+  src: url('/denczh/fonts/geo.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'normal';
+  src: url('/denczh/fonts/jura.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -115,20 +129,6 @@ nav {
 
 .project p {
     text-align: left;
-}
-
-@font-face {
-  font-family: 'brand';
-  src: url('/denczh/fonts/geo.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'normal';
-  src: url('/denczh/fonts/jura.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
 }
 
 /* Responsive design */
