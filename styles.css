@@ -140,14 +140,14 @@ nav {
 /* Fonts */
 @font-face {
   font-family: 'brand';
-  src: url('/fonts/Geo.ttf') format('ttf');
+  src: url('/fonts/Geo.woff') format('ttf');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'normal';
-  src: url('/fonts/Jura.ttf') format('ttf');
+  src: url('/fonts/Jura.woff') format('ttf');
   font-weight: normal;
   font-style: normal;
 }
