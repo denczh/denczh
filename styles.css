@@ -135,3 +135,11 @@ nav {
         padding: 15px;
     }
 }
+
+/* Fonts */
+@font-face {
+  font-family: 'denczh';
+  src: url('/fonts/Geo-Regular.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
