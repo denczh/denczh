@@ -1,13 +1,13 @@
 @font-face {
   font-family: 'brand';
-  src: url('fonts/Geo.woff') format('woff');
+  src: url('fonts/geo.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'normal';
-  src: url('fonts/Jura.woff') format('woff');
+  src: url('fonts/jura.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
